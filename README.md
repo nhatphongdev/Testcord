@@ -54,9 +54,3 @@ User-friendly interface, token privacy, desktop shortcut support.
 
 ---
 
-## 📞 Liên hệ hỗ trợ / Support contact
-
-- Website: [https://gnof.dev](https://gnof.dev)
-- Email: support@gnof.dev _(hoặc email của bạn nếu có)_
-
----
